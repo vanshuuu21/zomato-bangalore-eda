@@ -30,14 +30,16 @@ zomato-eda/
 ```
 
 ## 📊 Key Insights
-> Fill this in after running the notebook — see the storytelling notes below.
 
-1. **Rating Distribution** — most restaurants rate between ___–___/5.
-2. **Top Cuisines** — ___ dominates, followed by ___.
-3. **Cost vs Rating** — [weak / no / moderate] relationship between price and rating.
-4. **Online Ordering** — ___% of restaurants offer it; ratings are [higher/similar/lower] for those that do.
-5. **Location** — ___ has the highest average rating among top areas.
-6. **Restaurant Types** — ___ is the most common format.
+1. **Rating Distribution** — Most restaurants cluster around a rating of 3.5–4.2/5, showing most are "decent but not exceptional."
+2. **Top Cuisines** — North Indian dominates (2,900+ restaurants), followed by North Indian + Chinese combos and South Indian.
+3. **Cost vs Rating** — There is a weak relationship between price and rating — higher prices don't guarantee better ratings.
+4. **Online Ordering** — ~58% of restaurants offer online ordering; ratings are similar for those that do vs don't.
+5. **Location** — Smaller, less saturated areas have higher average ratings, while BTM and Koramangala have the most restaurants overall.
+6. **Restaurant Types** — Quick Bites is the most common format, reflecting Bangalore's fast, casual dining culture.
+
+## 💡 So What?
+Cuisine variety and location choice matter more than price or online ordering when it comes to ratings — a useful insight for anyone opening a new restaurant in Bangalore.
 
 ## 🧹 Data Cleaning Steps
 - Removed duplicate rows
