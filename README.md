@@ -59,13 +59,9 @@ zomato-eda/
 ## 📁 Data
 The dataset (`zomato.csv`) is not included due to size/licensing. Download it from [Kaggle — Zomato Bangalore Restaurants](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants) and place it in the `data/` folder.
 
-## ▶️ How to Run
-```bash
-git clone https://github.com/<your-username>/zomato-eda.git
-cd zomato-eda
-pip install -r requirements.txt
-jupyter notebook notebook/zomato_eda.ipynb
-```
 
 ## 🙋 About Me
-Beginner Data Analyst python, EDA, and data visualization. Feedback welcome!
+Beginner Data Analyst with experience in Power BI and Excel projects, now 
+expanding into Python for data analysis and visualization. This project 
+marks my first step into Python-based EDA — feedback and suggestions are 
+always welcome!
